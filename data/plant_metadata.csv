@@ -1,0 +1,345 @@
+Order,Family,Genus,Species,Status,Habit,Habitat,Start,Start_No,Mid,Mid_No,End,End_No,UK,Status_source,Habit_source,Flowering_period_source
+Sapindales,Sapindaceae,Acer,NA,Broad,"Shrub, Tree",Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sapindales,Sapindaceae,Acer,Acer palmatum,Non_native,Shrub,Man made,Mar,3,Apr,4,Apr,4,Y,NA,NA,NA
+Sapindales,Sapindaceae,Acer,Acer platanoides,Neophyte,Tree,Man made,Apr,4,May,5,Jun,6,Y,NA,NA,NA
+Sapindales,Sapindaceae,Acer,Acer pseudoplatanus,Neophyte,Tree,Man made,Apr,4,May,5,May,5,Y,NA,NA,NA
+Asterales,Asteraceae,Achillea,Achillea alpina,Non_native,Perennial herb,Man made,Jun,6,Aug,8,Sep,9,Y,NA,NA,NA
+Asterales,Asteraceae,Achillea,NA,Broad,Perennial herb,Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ericales,Actinidiaceae,Actinidia,NA,Non_native,Vine,Man made,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ericales,Actinidiaceae,Actinidia,Actinidia latifolia,Non_native,Vine,Man made,May,5,Jun,6,Jun,6,Y,NA,NA,NA
+Ericales,Actinidiaceae,Actinidia,Actinidia chinensis,Non_native,Vine,Man made,May,5,Jun,6,Jun,6,Y,https://pfaf.org/USER/Plant.aspx?LatinName=Actinidia+chinensis,https://pfaf.org/USER/Plant.aspx?LatinName=Actinidia+chinensis,https://pfaf.org/USER/Plant.aspx?LatinName=Actinidia+chinensis
+Apiales,Apiaceae,Aegopodium,NA,Native,Perennial herb,"Disturbed habitats, Wide range",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Apiales,Apiaceae,Aegopodium,Aegopodium podagraria,Native,Perennial herb,"Disturbed habitats, Wide range",May,5,Jun,6,Aug,8,Y,NA,NA,NA
+Sapindales,Sapindaceae,Aesculus,Aesculus hippocastanum,Neophyte,Tree,Wide range,May,5,Jun,6,Jun,6,Y,NA,NA,NA
+Sapindales,Sapindaceae,Aesculus,NA,Native/Neophyte,Tree,Wide range,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Sapindales,Simaroubaceae,Ailanthus,NA,Neophyte,Tree,Man made,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Sapindales,Simaroubaceae,Ailanthus,Ailanthus altissima,Neophyte,Tree,Man made,Jul,7,Jul,7,Aug,8,Y,https://pfaf.org/user/Plant.aspx?LatinName=Ailanthus+altissima,https://pfaf.org/user/Plant.aspx?LatinName=Ailanthus+altissima,https://pfaf.org/user/Plant.aspx?LatinName=Ailanthus+altissima
+Asparagales,Amaryllidaceae,Allium,NA,Native/Neophyte,Perennial herb,Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Fagales,Betulaceae,Alnus,NA,Native/Neophyte,Tree,Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Caryophyllales,Amaranthaceae,Alternanthera,NA,Non_native,Perennial herb,Man made,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Rosales,Rosaceae,Amelanchier,Amelanchier canadensis,Neophyte,Shrub,Man made,Apr,4,Apr,4,Apr,4,Y,NA,NA,NA
+Rosales,Rosaceae,Amelanchier,NA,Neophyte/Non_native,Shrub,"Man made, woodland",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Fabales,Fabaceae,Anarthrophyllum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Fabales,Fabaceae,Anarthrophyllum,Anarthrophyllum capitatum,Non_native,NA,NA,NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Ranunculales,Ranunculaceae,Anemone,NA,Native/Neophyte,Perennial herb,Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Apiales,Apiaceae,Angelica,NA,Broad,Perennial herb,"Man made, Disturbed habitats",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Poales,Poaceae,Anthoxanthum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Poales,Poaceae,Anthoxanthum,Anthoxanthum odoratum,Native,Perennial herb,Grassland,Apr,4,May,5,Jun,6,Y,https://pfaf.org/User/Plant.aspx?LatinName=Anthoxanthum+odoratum,https://pfaf.org/User/Plant.aspx?LatinName=Anthoxanthum+odoratum,https://pfaf.org/User/Plant.aspx?LatinName=Anthoxanthum+odoratum
+Asterales,Asteraceae,Arctium,Arctium lappa,Native,Biennial herb,Wide range,Jul,7,Aug,8,Sep,9,Y,NA,NA,NA
+Asterales,Asteraceae,Artemisia,NA,Native,Perennial herb,"Disturbed habitats, moist areas",NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Asparagales,Asparagaceae,Asparagus,NA,Native,Shrub ,Man made,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Fabales,Fabaceae,Astragalus,Astragalus membranaceus,Non_native,Perennial herb,Man made,Jun,6,Jul,7,Aug,8,Y,NA,NA,NA
+Poales,Poaceae,Avena,Avena fatua,Native,Graminoid,Man made,Jun,6,Jul,7,Jul,7,Y,NA,NA,NA
+Salviniales,Salviniaceae,Azolla,Azolla pinnata,Neophyte,NA,"Man made, moist soils",NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Cucurbitales,Begoniaceae,Begonia,NA,Non_native,Perennial herb,Man made,NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Asterales,Asteraceae,Bellis,Bellis perennis,Native,Perennial herb,"Disturbed habitats, moist areas",May,5,Jun,6,Jul,7,Y,NA,NA,NA
+Ranunculales,Berberidaceae,Berberis,Berberis bealei,Non_native,Shrub,Man made,Jan,1,Feb,2,Mar,3,Y,https://pfaf.org/USER/Plant.aspx?LatinName=Mahonia+bealei,https://pfaf.org/USER/Plant.aspx?LatinName=Mahonia+bealei,https://pfaf.org/USER/Plant.aspx?LatinName=Mahonia+bealei
+Ranunculales,Berberidaceae,Berberis,NA,Neophyte/Non_native,Shrub,Man made,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Fagales,Betulaceae,Betula,Betula papyrifera,Non_native,Tree,Man made,Apr,4,Apr,4,Apr,4,Y,"Stace, C. New Flora Of The British Isles, Third Edition","Stace, C. New Flora Of The British Isles, Third Edition",https://pfaf.org/User/Plant.aspx?LatinName=Betula+papyrifera
+Fagales,Betulaceae,Betula,Betula glandulosa,Non_native,Shrub,"Man made, moist soils",Apr,4,May,5,Jun,6,Y,NA,NA,NA
+Fagales,Betulaceae,Betula,NA,Broad,"Shrub, Tree",Wide range,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Caryophyllales,Polygonaceae,Bistorta,Bistorta amplexicaulis,Native,Perennial herb,"Disturbed habitats, Wide range",Jul,7,Aug,8,Oct,10,Y,NA,NA,NA
+Polypodiales,Blechnaceae,Blechnum,Blechnum orientale,Non_native,Fern,Man made,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Boraginales,Boraginaceae,Borago,Borago officinalis,Neophyte,Annual,"Man made, Disturbed habitats",Jun,6,Aug,8,Oct,10,Y,NA,NA,NA
+Asterales,Asteraceae,Brachyglottis,Brachyglottis greyi,Non_native,Shrub,Man made,Jul,7,Sep,9,Oct,10,Y,NA,NA,NA
+Brassicales,Brassicaceae,Brassica,Brassica carinata,Non_native,Annual,Man made,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Brassicales,Brassicaceae,Brassica,Brassica napus,Neophyte,Annual,Man made,May,5,Jul,7,Aug,8,Y,NA,NA,NA
+Brassicales,Brassicaceae,Brassica,Brassica rapa,Native,Biennial herb,"Man made, Disturbed habitats",May,5,Jul,7,Aug,8,Y,https://pfaf.org/user/plant.aspx?LatinName=Brassica+rapa,https://pfaf.org/user/plant.aspx?LatinName=Brassica+rapa,https://pfaf.org/user/plant.aspx?LatinName=Brassica+rapa
+Brassicales,Brassicaceae,Brassica,NA,Broad,Annual,Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lamiales,Scrophulariaceae,Buddleja,Buddleja davidii,Neophyte,Shrub,"Man made, Disturbed habitats",Jul,7,Aug,8,Oct,10,Y,https://pfaf.org/user/Plant.aspx?LatinName=Buddleia+davidii,https://pfaf.org/user/Plant.aspx?LatinName=Buddleia+davidii,https://pfaf.org/user/Plant.aspx?LatinName=Buddleia+davidii
+Lamiales,Scrophulariaceae,Buddleja,Buddleja officinalis,Non_native,Shrub,Man made,Mar,3,Apr,4,Apr,4,Y,NA,NA,NA
+Asterales,Asteraceae,Calendula,Calendula arvensis,Neophyte,Annual,Man made,Jun,6,Sep,9,Nov,11,Y,NA,NA,NA
+Myrtales,Myrtaceae,Callistemon,Callistemon comboynensis,Non_native,Shrub,Man made,Mar,3,May,5,Jun,6,Y,NA,NA,NA
+Ericales,Ericaceae,Calluna,Calluna vulgaris,Native,Shrub,"Man made, Heathland",Jul,7,Aug,8,Sep,9,Y,NA,NA,NA
+Solanales,Convolvulaceae,Calystegia,Calystegia sepium,Native,Vine,Wide range,Jul,7,Aug,8,Sep,9,Y,NA,NA,NA
+Solanales,Convolvulaceae,Calystegia,Calystegia silvatica,Neophyte,Vine,"Man made, Disturbed habitats",Jul,7,Aug,8,Sep,9,Y,NA,NA,NA
+Ericales,Theaceae,Camellia,Camellia pitardii,Non_native,"Shrub, Tree",Man made,Apr,4,May,5,Jun,6,Y,NA,NA,NA
+Ericales,Theaceae,Camellia,Camellia sinensis,Non_native,"Shrub, Tree",Man made,Mar,3,Apr,4,May,5,Y,NA,NA,NA
+Ericales,Theaceae,Camellia,NA,Non_native,"Shrub, Tree",Man made,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Asterales,Campanulaceae,Campanula,NA,Broad,Perennial herb,Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rosales,Cannabaceae,Cannabis,Cannabis sativa,Non_native,Annual,Man made,Jul,7,Jul,7,Jul,7,Y,https://pfaf.org/user/Plant.aspx?LatinName=Cannabis+sativa,https://pfaf.org/user/Plant.aspx?LatinName=Cannabis+sativa,https://pfaf.org/user/Plant.aspx?LatinName=Cannabis+sativa
+Fagales,Juglandaceae,Carya,Carya myristiciformis,Non_native,Tree,Man made,Apr,4,May,5,May,5,Y,NA,NA,NA
+Lamiales,Lamiaceae,Caryopteris,NA,Non_native,Shrub,Man made,NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Fagales,Fagaceae,Castanea,Castanea pumila,Non_native,Tree,"Man made, woodland",Jul,7,Jul,7,Jul,7,Y,NA,NA,NA
+Fagales,Fagaceae,Castanea,Castanea sativa,Neophyte,Tree,"Man made, woodland",Jul,7,Jul,7,Jul,7,Y,"Stace, C. New Flora Of The British Isles, Third Edition","Stace, C. New Flora Of The British Isles, Third Edition",https://pfaf.org/user/plant.aspx?LatinName=Castanea+sativa
+Rosales,Rhamnaceae,Ceanothus,Ceanothus thyrsiflorus,Non_native,Shrub,Man made,May,5,Jun,6,Jun,6,Y,NA,NA,NA
+Rosales,Rhamnaceae,Ceanothus,NA,Non_native,Shrub,Man made,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pinales,Pinaceae,Cedrus,Cedrus deodara,Neophyte,Tree,Man made,Oct,10,Nov,11,Nov,11,Y,NA,NA,NA
+Celastrales,Celastraceae,Celastrus,Celastrus orbiculatus,Neophyte,Vine,Man made,Jul,7,Aug,8,Aug,8,Y,NA,NA,NA
+Asterales,Asteraceae,Centaurea,Centaurea cyanus,Native,Annual,"Man made, Disturbed habitats",Jun,6,Jul,7,Aug,8,Y,NA,NA,NA
+Asterales,Asteraceae,Centaurea,NA,Broad,Perennial herb,Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rosales,Rosaceae,Chaenomeles,Chaenomeles speciosa,Neophyte,Shrub,Man made,Feb,2,Apr,4,Jun,6,Y,NA,NA,NA
+Myrtales,Onagraceae,Chamerion,Chamerion angustifolium,Native,Perennial herb,Wide range,Jun,6,Aug,8,Sep,9,Y,NA,NA,NA
+Caryophyllales,Amaranthaceae,Chenopodium,Chenopodium album,Native,Annual,Wide range,Jul,7,Sep,9,Oct,10,Y,NA,NA,NA
+Asterales,Asteraceae,Cichorium,Cichorium intybus,Native,Perennial herb,Wide range,Jul,7,Sep,9,Oct,10,Y,NA,NA,NA
+Asterales,Asteraceae,Cirsium,Cirsium arvense,Native,Perennial herb,"Man made, Disturbed habitats",Jul,7,Aug,8,Sep,9,Y,NA,NA,NA
+Asterales,Asteraceae,Cirsium,NA,Broad,Perennial herb,Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Asterales,Asteraceae,Cirsium,Cirsium vulgare,Native,Biennial,Wide range,Jul,7,Aug,8,Sep,9,Y,NA,NA,NA
+Sapindales,Rutaceae,Citrus,NA,Non_native,Tree,Man made,NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Sapindales,Rutaceae,Citrus,Citrus junos,Non_native,Tree,Man made,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Sapindales,Rutaceae,Citrus,Citrus leiocarpa,Non_native,Tree,Man made,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Sapindales,Rutaceae,Citrus,Citrus medica,Non_native,Tree,Man made,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Sapindales,Rutaceae,Citrus,Citrus reticulata,Non_native,Tree,Man made,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Sapindales,Rutaceae,Citrus,Citrus sinensis,Non_native,Tree,Man made,NA,NA,NA,NA,NA,NA,Y,https://pfaf.org/user/Plant.aspx?LatinName=Citrus+sinensis,https://pfaf.org/user/Plant.aspx?LatinName=Citrus+sinensis,https://pfaf.org/user/Plant.aspx?LatinName=Citrus+sinensis
+Ranunculales,Ranunculaceae,Clematis,Clematis terniflora,Non_native,Vine,Man made,Sep,9,Oct,10,Oct,10,Y,https://pfaf.org/user/Plant.aspx?LatinName=Clematis+terniflora,https://pfaf.org/user/Plant.aspx?LatinName=Clematis+terniflora,https://pfaf.org/user/Plant.aspx?LatinName=Clematis+terniflora
+Ranunculales,Ranunculaceae,Clematis,Clematis aethusifolia,Non_native,Vine,Man made,Jul,7,Aug,8,Aug,8,Y,NA,NA,NA
+Ranunculales,Ranunculaceae,Clematis,NA,Broad,Vine,Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ranunculales,Ranunculaceae,Clematis,Clematis vitalba,Native,Vine,Wide range,Jul,7,Aug,8,Sep,9,Y,NA,NA,NA
+Brassicales,Brassicaceae,Coincya,Coincya wrightii,Native,Perennial herb,Coast,May,5,Jul,7,Aug,8,Y,NA,NA,NA
+Cornales,Cornaceae,Cornus,Cornus macrophylla,Non_native,Shrub,"Man made, woodland",Jul,7,Aug,8,Aug,8,Y,NA,NA,NA
+Asterales,Asteraceae,Cosmos,Cosmos bipinnatus,Non_native,Annual,Man made,Aug,8,Sep,9,Sep,9,Y,NA,NA,NA
+Rosales,Rosaceae,Cotoneaster,NA,Neophyte,Shrub,Man made,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rosales,Rosaceae,Crataegus,NA,Broad,"Shrub, Tree",Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rosales,Rosaceae,Crataegus,Crataegus macracantha,Non_native,Shrub,Man made,May,5,Jun,6,Jun,6,Y,NA,NA,NA
+Rosales,Rosaceae,Crataegus,Crataegus monogyna,Native,"Shrub, Tree","Man made, woodland",May,5,Jun,6,Jun,6,Y,NA,NA,NA
+Rosales,Rosaceae,Crataegus,Crataegus nigra,Non_native,Tree,Man made,May,5,May,5,May,5,Y,NA,NA,NA
+Rosales,Rosaceae,Crataegus,Crataegus punctata,Non_native,Tree,Man made,Jun,6,Jun,6,Jun,6,Y,NA,NA,NA
+Asterales,Asteraceae,Crepis,Crepis kotschyana,Native,Perennial herb,,,,,,,,,NA,NA,NA
+Asparagales,Iridaceae,Crocosmia,Crocosmia mathewsiana,Non_native,Perennial herb,Man made,Jul,7,Aug,22,Aug,8,Y,NA,NA,NA
+Cucurbitales,Cucurbitaceae,Cucumis,Cucumis melo,Non_native,Vine,Man made,Jul,7,Aug,8,Sep,9,Y,https://pfaf.org/user/Plant.aspx?LatinName=Cucumis+melo,https://pfaf.org/user/Plant.aspx?LatinName=Cucumis+melo,https://pfaf.org/user/Plant.aspx?LatinName=Cucumis+melo
+Cucurbitales,Cucurbitaceae,Cucumis,Cucumis sativus,Neophyte,Vine,Man made,Jul,7,Aug,8,Sep,9,Y,NA,NA,NA
+Cucurbitales,Cucurbitaceae,Cucurbita,Cucurbita moschata,Non_native,Vine,Man made,Jul,7,Aug,8,Sep,9,Y,NA,NA,NA
+Fabales,Fabaceae,Cytisus,NA,Native,Shrub,Wide range,NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Rosales,Rosaceae,Dasiphora,Dasiphora fruticosa,Native,Shrub,NA,Jun,6,Jul,7,Jul,7,Y,NA,NA,NA
+Apiales,Apiaceae,Daucus,Daucus carota,Native,Biennial,"Man made, Disturbed habitats",Jun,6,Jul,7,Aug,8,Y,https://pfaf.org/USER/Plant.aspx?LatinName=Daucus+carota,https://pfaf.org/USER/Plant.aspx?LatinName=Daucus+carota,https://pfaf.org/USER/Plant.aspx?LatinName=Daucus+carota
+Poales,Poaceae,Deschampsia,Deschampsia cespitosa,Native,Graminoid,Wide range,Jun,6,Jul,7,Aug,8,Y,NA,NA,NA
+Cornales,Hydrangeaceae,Deutzia,NA,Neophyte,Shrub,Man made,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Dioscoreales,Dioscoreaceae,Dioscorea,NA,Non_native,Perennial herb,Man made,NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Brassicales,Brassicaceae,Diplotaxis,Diplotaxis tenuifolia,Native,Shrub,Man made,Jul,7,Aug,8,Aug,8,Y,NA,NA,NA
+Boraginales,Boraginaceae,Echium,Echium vulgare,Native,Perennial herb,"Man made, Disturbed habitats",Jul,7,Sep,9,Oct,10,Y,NA,NA,NA
+Myrtales,Onagraceae,Epilobium,NA,Native,Perennial herb,"Wide range, moist soils",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Asparagales,Asphodelaceae,Eremurus,NA,Non_native,Perennial herb,Man made,NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Ericales,Ericaceae,Erica,Erica carnea,Neophyte,Shrub,Man made,Dec,12,Feb,2,Mar,3,Y,NA,NA,NA
+Brassicales,Brassicaceae,Erucaria,Erucaria hispanica,Neophyte,Perennial herb,Man made,Jan,1,Mar,3,Jun,6,Y,NA,NA,NA
+Brassicales,Brassicaceae,Erysimum,Erysimum incanum,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Myrtales,Myrtaceae,Eucalyptus,Eucalyptus globulus,Neophyte,Tree,"Man made, moist soils",Jul,7,Aug,8,Aug,8,Y,NA,NA,NA
+Myrtales,Myrtaceae,Eucalyptus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Asterales,Asteraceae,Eupatorium,Eupatorium cannabinum,Native,Perennial herb,Wetland,Jul,7,Aug,8,Sep,9,Y,NA,NA,NA
+Fagales,Fagaceae,Fagus,NA,Broad,Tree,Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Caryophyllales,Polygonaceae,Fallopia,NA,Neophyte,Vine,Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rosales,Rosaceae,Filipendula,Filipendula ulmaria,Native,Perennial herb,Wetland,Jun,6,Jul,7,Aug,8,Y,https://pfaf.org/user/Plant.aspx?LatinName=Filipendula+ulmaria,https://pfaf.org/user/Plant.aspx?LatinName=Filipendula+ulmaria,https://pfaf.org/user/Plant.aspx?LatinName=Filipendula+ulmaria
+Rosales,Rosaceae,Filipendula,Filipendula vestita,Non_native,Perennial herb,"Man made, moist soils",Jun,6,Jul,7,Aug,8,Y,NA,NA,NA
+Apiales,Apiaceae,Foeniculum,Foeniculum vulgare,Native,Perennial herb,"Man made, moist soils",Aug,8,Sep,9,Oct,10,Y,NA,NA,NA
+Rosales,Rosaceae,Fragaria,NA,Broad,Perennial herb,Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lamiales,Oleaceae,Fraxinus,NA,Broad,Tree,Wide range,NA,NA,May,5,May,5,Y,NA,NA,NA
+Lamiales,Oleaceae,Fraxinus,Fraxinus excelsior,Native,Tree,Wide range,Apr,4,May,5,May,5,Y,NA,NA,NA
+Myrtales,Onagraceae,Fuchsia,NA,Neophyte/Non_native,Shrub,Man made,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Fabales,Fabaceae,Genista,NA,Non_native,Shrub,Man made,NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Geraniales,Geraniaceae,Geranium,NA,Broad,Annual/Perennial,Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Geraniales,Geraniaceae,Geranium,Geranium sylvaticum,Native,Perennial herb,Wide range,Jun,6,Jul,7,Jul,7,Y,NA,NA,NA
+Geraniales,Geraniaceae,Gernaium,Geranium phaeum,Native,Annual,"Man made, woodland",Jun,6,Jul,7,Oct,10,Y,https://pfaf.org/User/Plant.aspx?LatinName=Geranium+robertianum,https://pfaf.org/User/Plant.aspx?LatinName=Geranium+robertianum,https://pfaf.org/User/Plant.aspx?LatinName=Geranium+robertianum
+Rosales,Rosaceae,Geum,Geum urbanum,Native,Perennial herb,"Man made, Disturbed habitats",Jun,6,Jul,7,Aug,8,Y,NA,NA,NA
+Fabales,Fabaceae,Gleditsia,Gleditsia triacanthos,Non_native,Tree,"Man made, moist soils",Jul,7,Jul,7,Jul,7,Y,NA,NA,NA
+Malvales,Cistaceae,Halimium,Halimium lasianthum,Non_native,Shrub,Man made,Apr,4,Jun,6,Jul,7,Y,NA,NA,NA
+Apiales,Araliaceae,Hedera,NA,Native/Neophyte,Vine,Wide range,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Apiales,Araliaceae,Hedera,Hedera helix,Native,Vine,Wide range,Oct,10,Nov,11,Nov,11,Y,NA,NA,NA
+Asterales,Asteraceae,Helenium,Helenium autumnale,Non_native,Perennial herb,Man made,Aug,8,Sep,9,Oct,10,Y,NA,NA,NA
+Asterales,Asteraceae,Helianthus,Helianthus annuus,Neophyte,Annual,Man made,Jul,7,Aug,8,Sep,9,Y,NA,NA,NA
+Apiales,Apiaceae,Heracleum,NA,Broad,Perennial herb,Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Saxifragales,Saxifragaceae,Heuchera,NA,Non_native,Perennial herb,Man made,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Saxifragales,Saxifragaceae,Heuchera,Heuchera maxima,Non_native,Perennial herb,Man made,May,5,Jun,6,Jul,7,N,NA,NA,NA
+Asterales,Asteraceae,Hieracium,Hieracium fuscescens,Non_native,Perennial herb,NA,NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Malvales,Malvaceae,Hoheria,NA,Neophyte/Non_native,"Shrub, Tree",Man made,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cornales,Hydrangeaceae,Hydrangea,Hydrangea bretschneideri,Non_native,Shrub,Man made,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Cornales,Hydrangeaceae,Hydrangea,Hydrangea macrophylla,Neophyte,Shrub,Man made,Jul,7,Aug,8,Sep,9,Y,NA,NA,NA
+Cornales,Hydrangeaceae,Hydrangea,Hydrangea paniculata,Non_native,"Shrub, Tree",Man made,Jul,7,Aug,8,Aug,8,Y,NA,NA,NA
+Cornales,Hydrangeaceae,Hydrangea,Hydrangea petiolaris,Non_native,Vine,Man made,Jun,6,Jul,7,Aug,8,Y,NA,NA,NA
+Cornales,Hydrangeaceae,Hydrangea,Hydrangea quercifolia,Non_native,"Shrub, Vine",Man made,Jul,7,Aug,8,Sep,9,Y,NA,NA,NA
+Cornales,Hydrangeaceae,Hydrangea,Hydrangea serrata,Non_native,Shrub,Man made,Jul,7,Aug,8,Sep,9,Y,NA,NA,NA
+Cornales,Hydrangeaceae,Hydrangea,NA,Neophyte/Non_native,Shrub,Man made,NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Saxifragales,Crassulaceae,Hylotelephium,NA,Broad,Perennial herb,Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Malpighiales,Hypericaceae,Hypericum,Hypericum perforatum,Native,Perennial herb,Wide range,May,5,Jul,7,Aug,8,Y,NA,NA,NA
+Malpighiales,Hypericaceae,Hypericum,NA,Broad,Perennial herb,Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Asterales,Asteraceae,Hypochaeris,NA,Native,Annual/Perennial,Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Aquifoliales,Aquifoliaceae,Ilex,Ilex aquifolium,Native,Shrub,Wide range,May,5,Jun,6,Jun,6,Y,NA,NA,NA
+Ericales,Balsaminaceae,Impatiens,NA,Non_native,Annual,Man made,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Ericales,Balsaminaceae,Impatiens,Impatiens glandulifera,Neophyte,Annual,"Man made, moist soils",Jun,6,Sep,9,Oct,10,Y,"Stace, C. New Flora Of The British Isles, Third Edition","Stace, C. New Flora Of The British Isles, Third Edition",https://www.rhs.org.uk/advice/profile?pid=480
+Asterales,Asteraceae,Jacobaea,NA,Native,Perennial herb,Wide range,NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Asterales,Campanulaceae,Jasione,NA,Native,Perennial herb,Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lamiales,Oleaceae,Jasminum,NA,Non_native,Shrub,Man made,NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Fagales,Juglandaceae,Juglans,Juglans regia,Neophyte,Tree,Man made,Jun,6,Jun,6,Jun,6,Y,NA,NA,NA
+Fagales,Juglandaceae,Juglans,Juglans sigillata x Juglans regia,Neophyte,Tree,Man made,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Fabales,Fabaceae,Laburnum,Laburnum anagyroides,Neophyte,Tree,Man made,May,5,Jun,6,Jun,6,Y,NA,NA,NA
+Asterales,Asteraceae,Lactuca,Lactuca sibirica,Neophyte,Perennial herb,Man made,NA,NA,NA,NA,NA,NA,Y,https://pfaf.org/user/Plant.aspx?LatinName=Lactuca+sibirica,https://pfaf.org/user/Plant.aspx?LatinName=Lactuca+sibirica,
+Asterales,Asteraceae,Lactuca,Lactuca sativa,Non_native,Annual,Man made,Jul,7,Aug,8,Aug,8,Y,NA,NA,NA
+Asterales,Asteraceae,Lapsana,Lapsana communis,Native,Perennial herb,Wide range,Jun,6,Aug,8,Sep,9,Y,NA,NA,NA
+Fabales,Fabaceae,Lathyrus,Lathyrus pratensis,Native,Perennial herb,Wide range,May,5,Jul,7,Aug,8,Y,NA,NA,NA
+Lamiales,Lamiaceae,Lavandula,Lavandula angustifolia,Neophyte,Shrub,Man made,Jul,7,Aug,8,Sep,9,Y,"Stace, C. New Flora Of The British Isles, Third Edition","Stace, C. New Flora Of The British Isles, Third Edition",https://pfaf.org/USER/Plant.aspx?LatinName=Lavandula+angustifolia
+Lamiales,Lamiaceae,Lavandula,NA,Neophyte,Shrub,Man made,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Malvales,Malvaceae,Lavatera,NA,Non_native,Shrub,Man made,NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Malvales,Malvaceae,Lavatera,Lavatera thuringiaca,Non_native,Perennial herb,Man made,Jun,6,Aug,8,Sep,9,Y,https://pfaf.org/User/Plant.aspx?LatinName=Lavatera+thuringiaca,https://pfaf.org/User/Plant.aspx?LatinName=Lavatera+thuringiaca,https://www.rhs.org.uk/Plants/21850/Lavatera-thuringiaca/Details
+Asterales,Asteraceae,Leontodon,Leontodon hispidus,Native,Perennial herb,"Wide range, calcareous soils",Jun,6,Aug,8,Sep,9,Y,https://pfaf.org/user/plant.aspx?LatinName=Leontodon+hispidus,https://pfaf.org/user/plant.aspx?LatinName=Leontodon+hispidus,https://pfaf.org/user/plant.aspx?LatinName=Leontodon+hispidus
+Asterales,Asteraceae,Leontodon,NA,Native,Perennial herb,Wide range,NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Asterales,Asteraceae,Leucanthemum,Leucanthemum vulgare,Native,Perennial herb,Wide range,Jun,6,Jul,7,Aug,8,Y,NA,NA,NA
+Lamiales,Oleaceae,Ligustrum,Ligustrum lucidum,Non_native,Shrub,Man made,Aug,8,Sep,9,Sep,9,Y,NA,NA,NA
+Lamiales,Oleaceae,Ligustrum,Ligustrum obtusifolium,Non_native,Shrub,Man made,Jul,7,Jul,7,Jul,7,Y,NA,NA,NA
+Lamiales,Oleaceae,Ligustrum,Ligustrum ovalifolium,Neophyte,Shrub,Man made,Jul,7,Jul,7,Jul,7,Y,"Stace, C. New Flora Of The British Isles, Third Edition",https://pfaf.org/user/plant.aspx?latinname=Ligustrum+ovalifolium,https://pfaf.org/user/plant.aspx?latinname=Ligustrum+ovalifolium
+Lamiales,Oleaceae,Ligustrum,NA,Broad,Shrub,Wide range,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Lamiales,Oleaceae,Ligustrum,Ligustrum strongylophyllum,Non_native,Shrub,Man made,Jun,6,Jul,7,Aug,8,Y,NA,NA,NA
+Lamiales,Oleaceae,Ligustrum,Ligustrum vulgare,Native,Shrub,Man made,Jun,6,Jul,7,Jul,7,Y,NA,NA,NA
+Laurales,Lauraceae,Lindera,NA,Non_native,Shrub,Man made,NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Malpighiales,Linaceae,Linum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Poales,Poaceae,Lolium,Lolium perenne,Native,Graminoid,Wide range,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Dipsacales,Caprifoliaceae,Lonicera,NA,Neophyte,Shrub,Man made,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Fabales,Fabaceae,Lotus,Lotus corniculatus,Native,Perennial herb,"Wide range, calcareous soils",Jun,6,Aug,8,Sep,9,Y,NA,NA,NA
+Myrtales,Lythraceae,Lythrum,Lythrum salicaria,Native,Perennial herb,"Man made, moist soils",Jun,6,Jul,7,Aug,8,Y,NA,NA,NA
+Rosales,Rosaceae,Malus,NA,Broad,"Shrub, Tree",Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rosales,Rosaceae,Malus,Malus sieversii,Non_native,Tree,Man made,May,5,May,5,May,5,Y,NA,NA,NA
+Malvales,Malvaceae,Malva,Malva moschata,Native,Perennial herb,Man made,Jul,7,Aug,8,Aug,8,Y,NA,NA,NA
+Lamiales,Mazaceae,Mazus,NA,Non_native,Perennial herb,Man made,NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Fabales,Fabaceae,Melilotus,Melilotus albus,Neophyte,Annual,Man made,Jul,7,Aug,8,Aug,8,Y,NA,NA,NA
+Fabales,Fabaceae,Melilotus,Melilotus altissimus,Neophyte,Biennial,Disturbed habitats,Jun,6,Jul,7,Aug,8,Y,"Stace, C. New Flora Of The British Isles, Third Edition",https://pfaf.org/user/Plant.aspx?LatinName=Melilotus+altissimus,https://pfaf.org/user/Plant.aspx?LatinName=Melilotus+altissimus
+Fabales,Fabaceae,Melilotus,Melilotus indicus,Neophyte,Annual,Man made,Jun,6,Aug,8,Oct,10,Y,NA,NA,NA
+Fabales,Fabaceae,Melilotus,Melilotus officinalis,Neophyte,Biennial,Wide range,Jul,7,Aug,8,Sep,9,Y,https://pfaf.org/user/plant.aspx?LatinName=Melilotus+officinalis,https://pfaf.org/user/plant.aspx?LatinName=Melilotus+officinalis,https://pfaf.org/user/plant.aspx?LatinName=Melilotus+officinalis
+Rosales,Rosaceae,Mespilus,Mespilus germanica,Native,Tree,Man made,May,5,Jun,6,Jun,6,Y,NA,NA,NA
+Boraginales,Boraginaceae,Myosotis,NA,Native,Perennial herb,Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Alismatales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Apiales,Apiaceae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Caryophyllales,Polygonaceae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Lamiales,Lamiaceae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Magnoliales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Malpighiales,Passifloraceae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Malvales,Malvaceae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Poales,Poaceae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Rosales,Rosaceae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Sapindales,Rutaceae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Dioscoreales,Nartheciaceae,Narthecium,Narthecium ossifragum,Native,Perennial herb,Wetland,Jun,6,Jul,7,Aug,8,Y,NA,NA,NA
+Solanales,Solanaceae,Nicotiana,Nicotiana tabacum,Non_native,Annual,Man made,Apr,4,May,5,May,5,Y,NA,NA,NA
+Asterales,Menyanthaceae,Nymphoides,Nymphoides peltata,Native,Perennial herb,Wetland,Apr,4,Jul,7,Oct,10,Y,NA,NA,NA
+Myrtales,Onagraceae,Oenothera,Oenothera stricta,Neophyte,Biennial,Man made,May,5,Aug,8,Nov,11,Y,NA,NA,NA
+Lamiales,Oleaceae,Olea,Olea europaea,Non_native,Tree,Man made,Aug,7,Sep,9,Sep,9,Y,https://pfaf.org/user/Plant.aspx?LatinName=Olea+europaea,https://pfaf.org/user/Plant.aspx?LatinName=Olea+europaea,https://pfaf.org/user/Plant.aspx?LatinName=Olea+europaea
+Lamiales,Lamiaceae,Origanum,Origanum vulgare,Native,Perennial herb,"Man made, calcareous soils",Jul,7,Aug,8,Sep,9,Y,NA,NA,NA
+Orthotrichales,Orthotrichaceae,Orthotrichum,Orthotrichum rogeri,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Ranunculales,Papaveraceae,Papaver,Papaver rhoeas,Native,Annual,"Man made, Disturbed habitats",Jun,6,Jul,7,Aug,8,Y,https://pfaf.org/user/Plant.aspx?LatinName=Papaver+rhoeas,https://pfaf.org/user/Plant.aspx?LatinName=Papaver+rhoeas,https://pfaf.org/user/Plant.aspx?LatinName=Papaver+rhoeas
+Ranunculales,Papaveraceae,Papaver,NA,Native/Neophyte,Annual,Man made,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Ranunculales,Papaveraceae,Papaver,Papaver somniferum,Non_native,Annual,Man made,Jul,7,Jul,7,Aug,8,Y,https://pfaf.org/user/plant.aspx?LatinName=Papaver+somniferum,https://pfaf.org/user/plant.aspx?LatinName=Papaver+somniferum,https://pfaf.org/user/plant.aspx?LatinName=Papaver+somniferum
+Malpighiales,Passifloraceae,Passiflora,Passiflora caerulea,Non_native,Vine,Man made,Jun,6,Aug,8,Sep,9,Y,NA,NA,NA
+Apiales,Apiaceae,Pastinaca,Pastinaca sativa,Native,Biennial,"Man made, calcareous soils",Jul,7,Aug,8,Aug,8,Y,NA,NA,NA
+Apiales,Apiaceae,Pastinaca,NA,Native,Biennial,"Man made, calcareous soils",NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Geraniales,Geraniaceae,Pelargonium,NA,Non_native,Perennial herb,Man made,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Boraginales,Boraginaceae,Pentaglottis,Pentaglottis sempervirens,Neophyte,Perennial herb,Wide range,May,5,Jun,6,Jun,6,Y,NA,NA,NA
+Apiales,Apiaceae,Peucedanum,Peucedanum gallicum,Non_native,Perennial herb,NA,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Boraginales,Hydrophyllaceae,Phacelia,Phacelia tanacetifolia,Neophyte,Annual,Man made,Jul,7,Aug,8,Sep,9,Y,NA,NA,NA
+Fabales,Fabaceae,Phaseolus,Phaseolus coccineus,Non_native,Vine,Man made,Jul,7,Aug,8,Sep,9,Y,https://pfaf.org/user/plant.aspx?LatinName=Phaseolus+coccineus,https://pfaf.org/user/plant.aspx?LatinName=Phaseolus+coccineus,https://pfaf.org/user/plant.aspx?LatinName=Phaseolus+coccineus
+Fabales,Fabaceae,Phaseolus,Phaseolus vulgaris,Non_native,Vine,Man made,Jul,7,Aug,8,Sep,9,Y,NA,NA,NA
+Saxifragales,Crassulaceae,Phedimus,Phedimus spurius,Non_native,Perennial herb,Man made,Jul,7,Aug,8,Aug,8,Y,NA,NA,NA
+Asparagales,Xanthorrhoeaceae,Phormium,Phormium cookianum,Non_native,Shrub,Man made,Jul,7,Aug,8,Aug,8,Y,NA,NA,NA
+Asparagales,Xanthorrhoeaceae,Phormium,Phormium tenax,Non_native,Perennial herb,Man made,Jun,6,Jul,7,Jul,7,Y,NA,NA,NA
+Lamiales,Phrymaceae,Phryma,Phryma leptostachya,Non_native,Perennial herb,Man made,Jun,6,Jun,6,Jul,7,Y,https://pfaf.org/user/plant.aspx?latinname=Phormium+tenax,https://pfaf.org/user/plant.aspx?latinname=Phormium+tenax,https://pfaf.org/user/plant.aspx?latinname=Phormium+tenax
+Fabales,Fabaceae,Piptanthus,Piptanthus leiocarpus,Non_native,Shrub,Man made,May,5,Jun,6,Jun,6,Y,https://www.rhs.org.uk/plants/13167/Piptanthus-nepalensis/Details,https://www.rhs.org.uk/plants/13167/Piptanthus-nepalensis/Details,https://www.rhs.org.uk/plants/13167/Piptanthus-nepalensis/Details
+Rosales,Rosaceae,Physocarpus,NA,Neophyte,Shrub,Man made,NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Lamiales,Plantaginaceae,Plantago,Plantago lanceolata,Native,Perennial herb,Wide range,Apr,4,Jun,6,Aug,8,Y,NA,NA,NA
+Malpighiales,Salicaceae,Populus,Populus balsamifera,Neophyte,Tree,Man made,May,5,May,5,May,5,Y,NA,NA,NA
+Malpighiales,Salicaceae,Populus,NA,Neophyte,Tree,Man made,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Malpighiales,Salicaceae,Populus,Populus laurifolia,Neophyte,Tree,Man made,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Malpighiales,Salicaceae,Populus,Populus nigra,Neophyte,Tree,Man made,Apr,4,Apr,4,Apr,4,Y,NA,NA,NA
+Malpighiales,Salicaceae,Populus,Populus trichocarpa,Neophyte,Tree,Man made,Apr,4,May,5,May,5,Y,NA,NA,NA
+Rosales,Rosaceae,Potentilla,Potentilla alba,Neophyte,Shrub,Man made,May,5,Jul,7,Aug,8,,NA,NA,NA
+Rosales,Rosaceae,Prunus,Prunus avium,Native,Tree,Wide range,Apr,4,May,5,May,5,Y,"Stace, C. New Flora Of The British Isles, Third Edition",https://pfaf.org/user/plant.aspx?latinname=Prunus+avium,https://pfaf.org/user/plant.aspx?latinname=Prunus+avium
+Rosales,Rosaceae,Prunus,Prunus buergeriana,Non_native,Tree,Man made,Apr,4,May,5,May,5,Y,NA,NA,NA
+Rosales,Rosaceae,Prunus,Prunus cerasoides,Non_native,Tree,Man made,Apr,4,Apr,4,Apr,4,Y,NA,NA,NA
+Rosales,Rosaceae,Prunus,Prunus dulcis,Neophyte,Tree,Man made,Mar,3,Apr,4,Apr,4,Y,NA,NA,NA
+Rosales,Rosaceae,Prunus,Prunus lusitanica,Neophyte,Shrub,Man made,Jun,6,Jun,6,Jun,6,Y,NA,NA,NA
+Rosales,Rosaceae,Prunus,Prunus nipponica,Non_native,Shrub,Man made,May,5,May,5,May,5,Y,NA,NA,NA
+Rosales,Rosaceae,Prunus,Prunus pseudocerasus,Non_native,Shrub,Man made,Mar,3,Mar,3,Mar,3,Y,NA,NA,NA
+Rosales,Rosaceae,Prunus,Prunus serotina,Neophyte,Tree,Man made,May,5,Jun,6,Jun,6,Y,NA,NA,NA
+Rosales,Rosaceae,Prunus,Prunus serrulata,Neophyte,Tree,Man made,Apr,4,Apr,4,Apr,4,Y,NA,NA,NA
+Rosales,Rosaceae,Prunus,NA,Broad,"Shrub, Tree",Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rosales,Rosaceae,Prunus,Prunus yedoensis,Non_native,Tree,Man made,Apr,4,Apr,4,Apr,4,Y,NA,NA,NA
+Rosales,Rosaceae,Prunus,Prunus padus,Native,Tree,Wide range,May,5,May,5,May,5,Y,https://pfaf.org/user/Plant.aspx?LatinName=prunus+padus,https://pfaf.org/user/Plant.aspx?LatinName=prunus+padus,https://pfaf.org/user/Plant.aspx?LatinName=prunus+padus
+Rosales,Rosaceae,Prunus,Prunus pensylvanica,Neophyte,Tree,Man made,Apr,4,May,5,May,5,Y,NA,NA,NA
+Polypodiales,Pteridaceae,Pteris,Pteris vittata,Non_native,Fern,NA,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Fabales,Fabaceae,Pueraria,Pueraria montana,Non_native,Vine,Man made,Sep,9,Oct,10,Oct,10,Y,NA,NA,NA
+Rosales,Rosaceae,Pyracantha,Pyracantha fortuneana,Non_native,Shrub,Man made,Mar,3,Apr,4,May,5,Y,NA,NA,NA
+Rosales,Rosaceae,Pyracantha,NA,Neophyte/Non_native,Shrub,Man made,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rosales,Rosaceae,Pyrus,NA,Broad,Tree,Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rosales,Rosaceae,Pyrus,Pyrus cordata,Native,Tree,Man made,Apr,4,May,5,May,5,Y,NA,NA,NA
+Rosales,Rosaceae,Pyrus,Pyrus ussuriensis,Non_native,Tree,Man made,Apr,4,Apr,4,Apr,4,Y,NA,NA,NA
+Fagales,Fagaceae,Quercus,Quercus ilex,Neophyte,Tree,Man made,May,5,Jun,6,Jun,6,Y,NA,NA,NA
+Fagales,Fagaceae,Quercus,NA,Broad,Tree,Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ranunculales,Ranunculaceae,Ranunculus,NA,Broad,Perennial herb,Wide range,NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Brassicales,Brassicaceae,Raphanus,Raphanus sativus,Neophyte,Annual,Man made,Jun,6,Jul,7,Aug,8,Y,NA,NA,NA
+Brassicales,Resedaceae,Reseda,Reseda luteola,Native,Forb,Disturbed habitats,Jun,6,Jul,7,Aug,8,Y,NA,NA,NA
+Brassicales,Resedaceae,Reseda,NA,Native,Perennial herb,"Man made, Disturbed habitats",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lamiales,Orobanchaceae,Rhinanthus,Rhinanthus minor,Native,Annual,Grassland,May,5,Jul,7,Aug,8,Y,NA,NA,NA
+Sapindales,Anacardiaceae,Rhus,Rhus glabra,Non_native,Shrub,Man made,Jul,7,Aug,8,Aug,8,Y,NA,NA,NA
+Saxifragales,Grossulariaceae,Ribes,NA,Broad,Shrub,Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rosales,Rosaceae,Rosa,Rosa arkansana,Neophyte,Shrub,Man made,Jun,6,Jun,6,Jul,7,Y,https://pfaf.org/user/Plant.aspx?LatinName=Rosa+arkansana,https://pfaf.org/user/Plant.aspx?LatinName=Rosa+arkansana,https://pfaf.org/user/Plant.aspx?LatinName=Rosa+arkansana
+Rosales,Rosaceae,Rosa,Rosa laevigata,Non_native,Shrub,Man made,Jun,6,Jul,7,Jul,7,Y,https://pfaf.org/user/Plant.aspx?LatinName=Rosa+laevigata,https://pfaf.org/user/Plant.aspx?LatinName=Rosa+laevigata,https://pfaf.org/user/Plant.aspx?LatinName=Rosa+laevigata
+Rosales,Rosaceae,Rosa,NA,Broad,Shrub,Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rosales,Rosaceae,Rubus,Rubus plicatus,Native,Shrub,Wide range,May,5,Jul,7,Sep,9,Y,NA,NA,NA
+Rosales,Rosaceae,Rubus,Rubus armeniacus,Non_native,Shrub,Man made,NA,NA,NA,NA,NA,NA,Y,"Allen DE, 2003. Rubus in Surrey., Surrey, UK: Surrey Botanical Society. 18 pp. http://www.surreyflora.org.uk/Documents/flora05.pdf","Allen DE, 2003. Rubus in Surrey., Surrey, UK: Surrey Botanical Society. 18 pp. http://www.surreyflora.org.uk/Documents/flora05.pdf",NA
+Rosales,Rosaceae,Rubus,Rubus caesius,Native,Shrub,Wide range,Jun,6,Aug,8,Sep,9,Y,NA,NA,NA
+Rosales,Rosaceae,Rubus,Rubus crataegifolius,Non_native,Shrub,Man made,Jun,6,Jun,6,Jun,6,Y,NA,NA,NA
+Rosales,Rosaceae,Rubus,Rubus flagellaris,Non_native,Shrub,Man made,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Rosales,Rosaceae,Rubus,Rubus idaeus,Native,Shrub,Wide range,Jun,6,Jul,7,Aug,8,Y,NA,NA,NA
+Rosales,Rosaceae,Rubus,NA,Broad,Shrub,Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Caryophyllales,Polygonaceae,Rumex,Rumex acetosa,Native,Perennial herb,Grassland,May,5,Jun,6,Jun,6,Y,NA,NA,NA
+Malpighiales,Salicaceae,Salix,NA,Broad,"Shrub, Tree",Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Malpighiales,Salicaceae,Salix,Salix babylonica,Non_native,Tree,Man made,Apr,4,Apr,4,Apr,4,Y,"Stace, C. New Flora Of The British Isles, Third Edition",https://pfaf.org/User/Plant.aspx?LatinName=Salix+babylonica,https://pfaf.org/User/Plant.aspx?LatinName=Salix+babylonica
+Malpighiales,Salicaceae,Salix,Salix cinerea,Native,"Shrub, Tree",Wetland,Mar,3,Apr,4,Apr,4,Y,NA,NA,NA
+Malpighiales,Salicaceae,Salix,Salix fragilis,Native,Tree,Wetland,Apr,4,May,5,May,5,Y,NA,NA,NA
+Malpighiales,Salicaceae,Salix,Salix glauca,Non_native,Shrub,Man made,Jun,6,Jun,6,Jun,6,Y,NA,NA,NA
+Malpighiales,Salicaceae,Salix,Salix reticulata,Native,Shrub,Man made,Mar,3,Apr,4,Apr,4,Y,NA,NA,NA
+Lamiales,Lamiaceae,Salvia,NA,Native/Neophyte,Perennial herb,Man made,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dipsacales,Adoxaceae,Sambucus,NA,Native/Neophyte,"Shrub, Tree",Wide range,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Dipsacales,Adoxaceae,Sambucus,Sambucus nigra,Native,"Shrub, Tree",Wide range,Jun,6,Jul,7,Jul,7,Y,https://pfaf.org/user/plant.aspx?LatinName=Sambucus+nigra,https://pfaf.org/user/plant.aspx?LatinName=Sambucus+nigra,https://pfaf.org/user/plant.aspx?LatinName=Sambucus+nigra
+Rosales,Rosaceae,Sanguisorba,Sanguisorba officinalis,Native,Perennial herb,Grassland,Jun,6,Aug,8,Sep,9,Y,NA,NA,NA
+Asterales,Asteraceae,Scorzoneroides,Scorzoneroides autumnalis,Native,Perennial herb,Grassland,Jul,7,Sep,9,Oct,10,Y,NA,NA,NA
+Lamiales,Scrophulariaceae,Scrophularia,NA,Native/Neophyte,Perennial herb,"Man made, moist soils",NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Saxifragales,Crassulaceae,Sedum,NA,Broad,Perennial herb,Man made,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Asterales,Asteraceae,Senecio,NA,Native/Neophyte,Annual/Perennial,Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brassicales,Brassicaceae,Sinapis,NA,Native/Neophyte,Annual,Disturbed habitats,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Brassicales,Brassicaceae,Sinapis,Sinapis arvensis,Native,Annual,Disturbed habitats,May,5,Jun,6,Jul,7,Y,https://pfaf.org/user/Plant.aspx?LatinName=Sinapis+arvensis,https://pfaf.org/user/Plant.aspx?LatinName=Sinapis+arvensis,https://pfaf.org/user/Plant.aspx?LatinName=Sinapis+arvensis
+Sapindales,Rutaceae,Skimmia,Skimmia arborescens,Non_native,"Shrub, Tree",Man made,Apr,4,May,5,Jun,6,Y,NA,NA,NA
+Solanales,Solanaceae,Solanum,Solanum lycopersicum,Non_native,Annual,Man made,Jun,6,Jul,7,Aug,8,Y,NA,NA,NA
+Asterales,Asteraceae,Sonchus,NA,Native,Annual/Perennial,Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rosales,Rosaceae,Sorbus,NA,Broad,Shrub,Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rosales,Rosaceae,Sorbus,Sorbus aucuparia,Native,Tree,Wide range,May,5,Jun,6,Jun,6,Y,NA,NA,NA
+Rosales,Rosaceae,Sorbus,Sorbus cambrensis,Non_native,Tree,Man made,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Rosales,Rosaceae,Sorbus,Sorbus chamaemespilus,Non_native,Tree,Man made,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Rosales,Rosaceae,Sorbus,Sorbus torminalis,Native,Tree,Wide range,Jun,6,Jun,6,Jun,6,Y,NA,NA,NA
+Lamiales,Lamiaceae,Stachys,Stachys cretica,Non_native,Perennial herb,Man made,Jun,6,Aug,8,Sep,9,Y,NA,NA,NA
+Crossosomatales,Stachyuraceae,Stachyurus,Stachyurus praecox,Non_native,Shrub,Man made,Feb,2,Mar,3,Apr,4,Y,NA,NA,NA
+Dipsacales,Caprifoliaceae,Succisa,Succisa pratensis,Native,Perennial herb,Wide range,Jul,7,Sep,9,Oct,10,Y,NA,NA,NA
+Dipsacales,Caprifoliaceae,Symphoricarpos,Symphoricarpos occidentalis,Non_native,Shrub,Man made,Jun,6,Jun,6,Jul,7,Y,https://pfaf.org/user/Plant.aspx?LatinName=Symphoricarpos+occidentalis,https://pfaf.org/user/Plant.aspx?LatinName=Symphoricarpos+occidentalis,https://pfaf.org/user/Plant.aspx?LatinName=Symphoricarpos+occidentalis
+Dipsacales,Caprifoliaceae,Symphoricarpos,NA,Neophyte,Shrub,Wide range,NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Asterales,Asteraceae,Symphyotrichum,NA,Non_native,Perennial herb,Man made,Aug,8,Sep,9,Oct,10,N,NA,NA,NA
+Boraginales,Boraginaceae,Symphytum,NA,Native/Neophyte,Perennial herb,Wide range,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Lamiales,Oleaceae,Syringa,Syringa josikaea,Non_native,Shrub,Man made,Jun,6,Jun,6,Jun,6,Y,NA,NA,NA
+Lamiales,Oleaceae,Syringa,Syringa pubescens,Non_native,"Shrub, Tree",Man made,Apr,4,May,5,May,5,Y,NA,NA,NA
+Lamiales,Oleaceae,Syringa,NA,Neophyte/Non_native,"Shrub, Tree",Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Caryophyllales,Tamaricaceae,Tamarix,Tamarix gallica,Neophyte,"Shrub, Tree",Wide range,Jun,6,Jul,7,Aug,8,Y,https://pfaf.org/user/plant.aspx?latinname=Tamarix+gallica,https://pfaf.org/user/plant.aspx?latinname=Tamarix+gallica,https://pfaf.org/user/plant.aspx?latinname=Tamarix+gallica
+Caryophyllales,Tamaricaceae,Tamarix,NA,Neophyte,Shrub,Man made,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Asterales,Asteraceae,Tanacetum,Tanacetum vulgare,Native,Forb,Scrub,Aug,8,Sep,9,Sep,9,Y,NA,NA,NA
+Asterales,Asteraceae,Taraxacum,NA,Native,Perennial herb,Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Malvales,Malvaceae,Theobroma,NA,Non_native,Shrub,Man made,NA,NA,NA,NA,NA,NA,N,NA,NA,NA
+Malvales,Malvaceae,Tilia,Tilia americana,Non_native,Tree,Man made,Jul,7,Jul,7,Jul,7,Y,NA,NA,NA
+Malvales,Malvaceae,Tilia,Tilia caroliniana,Non_native,Tree,Man made,Jul,7,Jul,7,Jul,7,Y,NA,NA,NA
+Malvales,Malvaceae,Tilia,Tilia oliveri,Non_native,Tree,Man made,Jun,6,Jun,6,Jun,6,Y,NA,NA,NA
+Malvales,Malvaceae,Tilia,Tilia platyphyllos,Native,Tree,"Man made, woodland",Jun,6,Jul,7,Jul,7,Y,NA,NA,NA
+Malvales,Malvaceae,Tilia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Arecales,Arecaceae,Trachycarpus,Trachycarpus martianus,Non_native,Tree,Man made,Aug,8,Sep,9,Sep,9,Y,NA,NA,NA
+Fabales,Fabaceae,Trifolium,Trifolium hybridum,Neophyte,Annual,Wide range,Jun,6,Aug,8,Sep,9,Y,NA,NA,NA
+Fabales,Fabaceae,Trifolium,Trifolium occidentale,Native,Perennial herb,Coast,Jun,6,Aug,8,Sep,9,Y,NA,NA,NA
+Fabales,Fabaceae,Trifolium,Trifolium pratense,Native,Perennial herb,Wide range,May,5,Jul,7,Sep,9,Y,NA,NA,NA
+Fabales,Fabaceae,Trifolium,Trifolium repens,Native,Perennial herb,Wide range,Jun,6,Aug,8,Sep,9,Y,https://pfaf.org/user/plant.aspx?LatinName=Trifolium+repens,https://pfaf.org/user/plant.aspx?LatinName=Trifolium+repens,https://pfaf.org/user/plant.aspx?LatinName=Trifolium+repens
+Fabales,Fabaceae,Trifolium,NA,Native/Neophyte,Annual/Perennial,Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Poales,Poaceae,Triticum,Triticum aestivum,Neophyte,Graminoid,Man made,Jun,6,Jul,7,Jul,7,Y,NA,NA,NA
+Poales,Poaceae,Triticum,NA,Neophyte,Graminoid,Man made,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Brassicales,Tropaeolaceae,Tropaeolum,NA,Neophyte/Non_native,Vine,"Man made, Disturbed habitats",NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Brassicales,Tropaeolaceae,Tropaeolum,Tropaeolum peregrinum,Non_native,Vine,Man made,Jun,6,Aug,8,Sep,9,Y,NA,NA,NA
+Orthotrichales,Orthotrichaceae,Ulota,Ulota crispa,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Rosales,Urticaceae,Urtica,NA,Native,Perennial herb,Wide range,May,5,Aug,8,Oct,10,Y,NA,NA,NA
+Ericales,Ericaceae,Vaccinium,NA,Broad,Shrub,"Man made, Heathland",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lamiales,Scrophulariaceae,Verbascum,Verbascum nigrum,Native,Biennial,"Man made, calcareous soils",Jun,6,Aug,8,Oct,10,Y,NA,NA,NA
+Lamiales,Plantaginaceae,Veronica,Veronica americana,Non_native,Perennial herb,"Man made, wetland",Jul,7,Aug,8,Aug,8,Y,https://pfaf.org/user/Plant.aspx?LatinName=Veronica+americana,https://pfaf.org/user/Plant.aspx?LatinName=Veronica+americana,https://pfaf.org/user/Plant.aspx?LatinName=Veronica+americana
+Lamiales,Plantaginaceae,Veronica,NA,Native/Neophyte,Perennial herb,Wide range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dipsacales,Adoxaceae,Viburnum,Viburnum tinus,Neophyte,Shrub,Man made,Dec,12,Jan,1,Feb,2,Y,NA,NA,NA
+Dipsacales,Adoxaceae,Viburnum,Viburnum acerifolium,Neophyte,Shrub,Man made,May,5,May,5,Jun,6,Y,https://www.classicviburnums.com/index.cfm/fuseaction/plants.plantDetail/plant_id/7033/index.htm,https://www.classicviburnums.com/index.cfm/fuseaction/plants.plantDetail/plant_id/7033/index.htm,https://www.classicviburnums.com/index.cfm/fuseaction/plants.plantDetail/plant_id/7033/index.htm
+Fabales,Fabaceae,Vicia,Vicia faba,Neophyte,Annual,Man made,May,5,Jul,7,Aug,8,Y,NA,NA,NA
+Fabales,Fabaceae,Vicia,NA,Broad,Annual/Perennial,Wide range,NA,NA,NA,NA,NA,NA,Y,NA,NA,NA
+Sapindales,Rutaceae,Zanthoxylum,Zanthoxylum clava-herculis,Non_native,Shrub,Man made,May,5,Jun,6,Jun,6,Y,NA,NA,NA
+Sapindales,Rutaceae,Zanthoxylum,Zanthoxylum piperitum,Non_native,Shrub,Man made,Apr,4,May,5,Jun,6,Y,https://pfaf.org/user/plant.aspx?latinname=Zanthoxylum+piperitum,https://pfaf.org/user/plant.aspx?latinname=Zanthoxylum+piperitum,https://pfaf.org/user/plant.aspx?latinname=Zanthoxylum+piperitum
+Poales,Poaceae,Zea,Zea mays,Neophyte,Graminoid,Man made,Jul,7,Sep,9,Oct,10,Y,NA,NA,NA
+Zingiberales,Zingiberaceae,Zingiber,Zingiber officinale,Non_native,Perennial herb,Man made,Apr,4,May,5,May,5,Y,NA,NA,NA
